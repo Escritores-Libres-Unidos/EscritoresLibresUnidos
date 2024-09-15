@@ -143,6 +143,10 @@ h2{
     gap: 20px;
     justify-content: center;
 }
+.img-fluid{
+    max-width: 100%; 
+     height: auto;
+ }
 .item{
     border-radius: 10px;
 }
