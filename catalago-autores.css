@@ -187,4 +187,10 @@ footer {
     padding-right: 5%;
     
 }
+@media (max-width: 755px) {
+    .container-items {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+}
 
