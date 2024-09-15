@@ -126,6 +126,12 @@ a :visited{
     height: 600px;
     width: auto;
 }
+@media (min-width: 755px) {
+    .carousel-item img {
+        width: 100%;
+        height: auto;
+    }
+}
 footer {
     padding-top: 7%;
     padding-left: 5%;
